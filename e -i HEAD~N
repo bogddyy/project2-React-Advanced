@@ -1,0 +1,35 @@
+[33mcommit 527051cbace034f965df816ca3c2e4a71068675e[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: bogddyy <bogddyybogddaann@gmail.com>
+Date:   Tue Oct 22 00:14:02 2024 +0300
+
+    first component
+
+[33mcommit f43bbf220f23293d95f7dd2ad32757073c11eb5f[m
+Author: bogddyy <bogddyybogddaann@gmail.com>
+Date:   Tue Oct 22 00:13:25 2024 +0300
+
+    first component
+
+[33mcommit 62d7155797c11e80497abea753e858405cf3e860[m
+Author: bogddyy <bogddyybogddaann@gmail.com>
+Date:   Mon Oct 21 22:31:02 2024 +0300
+
+    Modify test
+
+[33mcommit 490b9aa8c9d9fe40d5dc6151bb7a7f4166e929f8[m
+Author: Bogdan Ailenei <131551007+bogddyy@users.noreply.github.com>
+Date:   Mon Oct 21 22:27:32 2024 +0300
+
+    Update README.md
+
+[33mcommit 6e81d2ee4ff206c0ce8fd22b5a1d055ec45009e0[m
+Author: bogddyy <bogddyybogddaann@gmail.com>
+Date:   Mon Oct 21 22:06:32 2024 +0300
+
+    modify App.js to be a class
+
+[33mcommit bd732dc7136eb8b6af07e5030b2037018c972a75[m
+Author: bogddyy <bogddyybogddaann@gmail.com>
+Date:   Mon Oct 21 21:48:45 2024 +0300
+
+    initialize project2
