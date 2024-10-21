@@ -8,7 +8,7 @@ class App extends React.Component {
   }
 
   render() {
-    return <div>Curs 05</div>;
+    return <div>Curs 05 React</div>;
   }
 }
 export default App;
