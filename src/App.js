@@ -1,7 +1,10 @@
 import React from "react";
 import "./App.css";
-import { Route, Switch } from "react-router-dom";
+import { Routes, Route } from "react-router-dom";
 import Home from "./pages/Home.jsx";
+import Login from "./pages/Login.jsx";
+import About from "./pages/About.jsx";
+import Page404 from "./pages/Page404.jsx";
 
 class App extends React.Component {
   constructor(props) {
@@ -12,10 +15,15 @@ class App extends React.Component {
   render() {
     return (
       <div>
-        Curs 05 React
-        <Home />
+        <Routes>
+          <Route exact path="/" element={<Home />} />
+          <Route path="/login" element={<Login />} />
+          <Route path="/about" element={<About />} />
+          <Route path="*" element={<Page404 />} />
+        </Routes>
       </div>
     );
   }
 }
+
 export default App;
