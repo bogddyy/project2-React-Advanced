@@ -1,5 +1,7 @@
 import React from "react";
 import "./App.css";
+import { Route, Switch } from "react-router-dom";
+import Home from "./pages/Home.jsx";
 
 class App extends React.Component {
   constructor(props) {
@@ -8,7 +10,12 @@ class App extends React.Component {
   }
 
   render() {
-    return <div>Curs 05 React</div>;
+    return (
+      <div>
+        Curs 05 React
+        <Home />
+      </div>
+    );
   }
 }
 export default App;
